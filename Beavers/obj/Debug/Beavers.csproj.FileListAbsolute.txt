@@ -1,0 +1,44 @@
+E:\Project\Beavers\Beavers\bin\Debug\Beavers.exe.config
+E:\Project\Beavers\Beavers\bin\Debug\Beavers.exe
+E:\Project\Beavers\Beavers\bin\Debug\Beavers.pdb
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.csprojResolveAssemblyReference.cache
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmDeleteBeaver.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmTemplateBAdd.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmAttendBeaver.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmUpdateBeaver.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.Properties.Resources.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.csproj.GenerateResource.Cache
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.exe
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.pdb
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmMainMenu.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmLogin.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmOrderUniform.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmAddBeavers.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmDisplay.resources
+F:\Project\Beavers\Beavers\bin\Debug\Beavers.exe.config
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.exe
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.pdb
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.csprojResolveAssemblyReference.cache
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmDeleteBeaver.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmAddBeavers.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmTemplateBAdd.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmAttendBeaver.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmDisplay.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmLogin.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmOrderUniform.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmUpdateBeaver.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmMainMenu.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.Properties.Resources.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.csproj.GenerateResource.Cache
+F:\Project\Beavers\Beavers\bin\Debug\Beavers.exe
+F:\Project\Beavers\Beavers\bin\Debug\Beavers.pdb
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmUpdateDoctor.resources
+E:\Project\Beavers\Beavers\obj\Debug\Beavers.frmManageClass.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmManageClass.resources
+F:\Project\Beavers\Beavers\obj\Debug\Beavers.frmUpdateDoctor.resources
+F:\old stuff\Project\Beavers\Beavers\bin\Debug\Beavers.exe.config
+F:\old stuff\Project\Beavers\Beavers\obj\Debug\Beavers.exe
+F:\old stuff\Project\Beavers\Beavers\obj\Debug\Beavers.pdb
+E:\old stuff\Project\Beavers\Beavers\bin\Debug\Beavers.exe.config
+E:\old stuff\Project\Beavers\Beavers\obj\Debug\Beavers.exe
+E:\old stuff\Project\Beavers\Beavers\obj\Debug\Beavers.pdb
